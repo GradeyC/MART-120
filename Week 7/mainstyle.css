@@ -1,0 +1,23 @@
+.font{
+    font-size: 20px;
+    background-color:orchid;
+    font-family:monospace;
+}
+
+ .heading{
+    text-align: center;
+    color: gold;
+    text-decoration: underline;
+    font-family: cursive;
+ }
+
+#HobbiesListStyle{
+    font-size: 20px;
+    color:blueviolet;
+    background-color:cadetblue;
+    font-family:serif;
+  }
+
+#FavWebsiteStyle{
+
+}
